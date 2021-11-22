@@ -2,8 +2,10 @@ Welcome to prudhvi kitchen.
 Dal
 Rice
 Chicken
-Curd.
+Curd
 Biryani
-
+Beans
+Paneer
+Pizza
 
 Thank you ..
